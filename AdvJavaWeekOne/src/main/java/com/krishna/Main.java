@@ -1,4 +1,10 @@
 package com.krishna;
+/*
+ * Student name:Krishna Sharama
+ * Course and section: INEW-2338-22700, INEW-2038-22700
+ * Assignment: Week-1
+ * This is week one assignment that works with inheritance and Recursion. Dog and Cat inherit Animal
+ */
 
 import java.io.File;
 import java.io.FileNotFoundException;

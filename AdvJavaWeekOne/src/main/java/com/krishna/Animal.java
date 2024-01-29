@@ -33,3 +33,11 @@ public class Animal implements AnimalI{
                 + "]";
     }
 }
+
+
+
+
+
+
+
+
