@@ -32,7 +32,7 @@ public class Main {
                 \040""";
 
         while (true) {
-            System.out.println(menu);
+            System.out.print(menu);
             char opt = in.next().charAt(0);
 
             switch (opt) {
