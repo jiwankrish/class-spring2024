@@ -1,3 +1,10 @@
+/*
++ * Student name:Krishna Sharama
++ * Course and section: INEW-2338-22700, INEW-2038-22700
++ * Assignment: Week4
++ * This assignment covers the list
++ */
+
 package com.krishna;
 
 import java.util.Arrays;
